@@ -1,3 +1,11 @@
+This fork has specific changes for my K40LaserCutter-Firmware https://github.com/MrMaxP/K40LaserCutter-Firmware/
+
+I will be fixing a few small issues I've found with the original and adding / removing functionality specifically for my K40 implementation. I also intend to add a print function through my other (TBD) printer software.
+
+This isn't intended to be a one-size-fits-all implementation, but if you have a K40 laser with RAMPS 1.4 upgrade and want to use my K40 firmware, it may be useful to you.
+
+Below is the original readme
+
 About This Project
 ------------------
 This project was intended to build and all in one exporting plugin for laser cutters and Inkscape 0.91. It has not been tested on lower versions of Inkscape but may work..
